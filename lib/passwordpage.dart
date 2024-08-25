@@ -5,8 +5,8 @@ class Passwordpage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child: Text('Password Text'),
+    return Container(
+      child: Text('Hi Dev2'),
     );
   }
 }
